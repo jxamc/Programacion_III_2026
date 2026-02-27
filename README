@@ -1,0 +1,14 @@
+Universidad Mariano Gálvez
+Curso: Programacion III
+
+Nombre : Julio Cesar Xam Chivalan
+Carné: 9941-24-8897
+Sección: B
+
+En este programa se define una estructura llamada Nodo, la cual contiene un dato entero y un puntero que apunta al siguiente nodo.
+
+Se crean tres nodos de manera dinámica usando new y el usuario ingresa los valores desde el teclado. Luego los nodos se enlazan entre sí para formar una lista simplemente enlazada.
+
+Después se muestran en pantalla los datos del estudiante y los valores almacenados en los nodos recorriendo la lista con un puntero auxiliar.
+
+Al final se libera la memoria utilizando delete para evitar fugas de memoria.
